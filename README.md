@@ -19,3 +19,4 @@ C:\>.\geoid-dl\Scripts\activate
 (geoid-dl)C:\>python .\geoid-dl\Scripts\download_geoid.py
 5. Selesai
 Hasilnya akan berupa file CSV dengan nama geoid_indonesia_srgi.csv
+Selanjutnya siap digunakan untuk interpolasi data geoid
