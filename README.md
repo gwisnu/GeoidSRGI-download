@@ -1,10 +1,10 @@
 # GeoidSRGI-download
 
 # Pre-requisite
-1. Python 3 :
+1. Python 3 :<br />
 C:\>python --version
 
-2. PIP  :
+2. PIP  :<br />
 C:\>pip --version
 
 #Langkah-langkah
