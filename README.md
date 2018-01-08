@@ -13,10 +13,9 @@ C:\>python -m venv geoid-dl
 2. Masuk ke virtual env python<br/>
 C:\>.\geoid-dl\Scripts\activate
 3. Install library yang dibutuhkan<br/>
-(geoid-dl)C:\>pip install requests
+(geoid-dl)C:\>pip install requests<br/>
 (geoid-dl)C:\>pip install beautifulsoup4<br/>
 4. Jalankan script download_geoid.py <br/>(misalkan di simpan di C:\geoid-dl\Scripts)<br/>
 (geoid-dl)C:\>python .\geoid-dl\Scripts\download_geoid.py
 5. Selesai<br/>
-Hasilnya akan berupa file CSV dengan nama geoid_indonesia_srgi.csv
-Selanjutnya siap digunakan untuk interpolasi data geoid
+Hasilnya akan berupa file CSV dengan nama geoid_indonesia_srgi.csv. Selanjutnya siap digunakan untuk interpolasi data geoid
